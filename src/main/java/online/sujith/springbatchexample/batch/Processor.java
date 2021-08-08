@@ -3,8 +3,7 @@ package online.sujith.springbatchexample.batch;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.springframework.batch.item.ItemProcessor;
-import org.springframework.batch.item.adapter.ItemProcessorAdapter;
+import org.springframework.batch.item.ItemProcessor;	
 import org.springframework.stereotype.Component;
 
 import online.sujith.springbatchexample.model.User;
